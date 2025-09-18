@@ -1,4 +1,4 @@
-package Lista1;
+package Listas1.pratica;
 
 import java.util.Locale;
 import java.util.Scanner;
